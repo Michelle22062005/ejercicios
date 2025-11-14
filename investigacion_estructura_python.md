@@ -1,6 +1,6 @@
 #Estructuras de Datos en Python
 
-##1. Listas
+#1. Listas
 -**Que son:**
 
 *Las listas son colecciones ordenadas y mutables de elementos.*
@@ -254,3 +254,4 @@ catalogo_posicion_mayor=5
 
         
         
+
